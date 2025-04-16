@@ -3,6 +3,8 @@
 
 # Desafio Super Trunfo - Nível Novato
 
+> Nota: no diretório / está o novato, utilize a estrutura de pasta para acessar o módulo aventureiro e mestre.
+
 ## Objetivo
 Implementar em linguagem C a lógica de comparação entre duas cartas do jogo Super Trunfo, utilizando atributos numéricos previamente cadastrados. O programa deve determinar a carta vencedora com base em um atributo escolhido diretamente no código.
 
