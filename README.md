@@ -3,6 +3,8 @@
 
 # Desafio Super Trunfo - Nível Novato
 
+## Disciplina: Introdução à programação de computadores 
+
 > Nota: no diretório / está o novato, utilize a estrutura de pasta para acessar o módulo aventureiro e mestre.
 
 ## Objetivo
